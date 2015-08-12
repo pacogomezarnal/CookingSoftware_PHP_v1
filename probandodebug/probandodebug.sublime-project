@@ -1,0 +1,21 @@
+{
+	"folders":
+	[
+		{
+			"path": "/C/Users/profesor/Desktop/PHPProjects"
+		}
+	],
+	"settings":
+	{
+		"xdebug":
+		{
+			"close_on_stop": true,
+			"path_mapping":
+			{
+				"/var/www/html/probandodebug/": "C:/Users/profesor/Desktop/PHPProjects/probandodebug/"
+			},
+			"super_globals": true,
+			"url": "http://192.168.56.1/probandodebug/"
+		}
+	}
+}
