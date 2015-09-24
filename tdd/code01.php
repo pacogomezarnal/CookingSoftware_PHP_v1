@@ -33,6 +33,12 @@
 			echo "--------------------------------"."</br>";
 			echo "Valor de salida=".avatarCode(1)." INCORRECTO</br>";
 			echo "</div>";
+			//Si introducimos el valor -1 esperamos que salga el valor 1
+			echo "<div class=\"KO\">";
+			echo "Valor de entrada=-1, valor esperado=1"."</br>";
+			echo "--------------------------------"."</br>";
+			echo "Valor de salida=".avatarCode(-1)." INCORRECTO</br>";
+			echo "</div>";
 		?>
 	</body>
 </html>
